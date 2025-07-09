@@ -70,12 +70,14 @@ Puedes configurarlo en Nómina > Catálogo > Perfiles de contratos.
 1. Valida que el concepto "Prima legal" esté creado y correctamente formulado.
 
 ![Concepto prima configurado](imagenes/concepto_prima.png)
+
 2. Establece su periodicidad como *semestral* y fechas en junio y diciembre.
 
 ![Concepto prima configurado](imagenes/parametrizacion_prima.png)
+
 3. En la forma de cálculo, define fórmula tanto para cantidad como valor.
 
-![Concepto prima configurado](imagenes/formula_prima1.png)![Concepto prima configurado](imagenes/formula_prima2.png)
+![Concepto prima configurado](imagenes/formula_prima1.png) ![Concepto prima configurado](imagenes/formula_prima2.png)
 
 
 ---
@@ -86,6 +88,7 @@ Puedes configurarlo en Nómina > Catálogo > Perfiles de contratos.
 - Si el concepto tiene periodicidad y fechas, el sistema la toma automáticamente al liquidar nómina.
 
 ![Novedad manual](imagenes/parametrizar_novedad_prima.png)
+
 - También puedes generar una operación de novedad manual e ingresar el valor deseado (solo si el concepto está con cálculo *manual*).
 
 ![Novedad manual](imagenes/novedad_manual_prima.png)
@@ -106,6 +109,7 @@ Puedes configurarlo en Nómina > Catálogo > Perfiles de contratos.
 - Usa el explorador de conceptos de nómina.
 
 ![Explorador de acumulados](imagenes/explorador_conceptos.png)
+
 - Filtra por fechas, empleados y conceptos salariales.
 
 ![Explorador de acumulados](imagenes/fechas_explorador_conceptos.png)
@@ -135,9 +139,9 @@ Sí. La operación de pago de nómina ya incluye las prestaciones si están para
 **Respuesta:**
 1. Abre la operación de pago de nómina.
 2. Pulsa `Ctrl+Y` para imprimir el comprobante.
+3. Puedes exportarlo a PDF.
 
 ![Comprobante pago](imagenes/abrir_comprobante_prima.png)
-3. Puedes exportarlo a PDF.
 
 ![Comprobante pago](imagenes/comprobante_prima.png)
 
